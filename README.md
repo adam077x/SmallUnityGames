@@ -7,6 +7,6 @@ This is small game made in Unity. Inspired by game called Braid. This game featu
 ![](Braid.gif)
 
 ## Platformer Game
-Simple platformer game made in Unity. (NOT FINISHED)\
+Simple platformer game made in Unity.\
 \
 ![](platformer.png)
