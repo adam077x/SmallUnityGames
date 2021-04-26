@@ -2,7 +2,7 @@
 Small unity games and prototypes i made.
 
 ## Braid
-This is small game made in Unity. Inspired by game called Braid. This game features time travel abilities. (NOT FINISHED)\
+This is small game made in Unity. Inspired by game called Braid. This game features time travel abilities.\
 \
 ![](Braid.gif)
 
