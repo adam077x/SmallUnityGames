@@ -1,0 +1,23 @@
+﻿TODO:
+Finish
+Add rope
+Acid particle
+Destroy particle
+Settings menu
+Add sound effects and music
+Create levels
+Make icon
+Add buttons to open doors
+Main Menu
+
+WORKING:
+
+FINISHED:
+Checkpoints
+Improve player movement
+Health System
+Smooth camera
+Hinge joint platform
+Add acid
+Add water
+Add physics boxes
