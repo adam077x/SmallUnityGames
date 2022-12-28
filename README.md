@@ -12,3 +12,6 @@ Simple platformer game made in Unity.\
 ![](platformer.png)
 
 ## Top-down shooter
+2D Minimalistic top down shooter \
+\
+![](shootergame.gif)
