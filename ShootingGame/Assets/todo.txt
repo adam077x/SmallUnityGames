@@ -1,0 +1,4 @@
+﻿- multiple guns = 1 hour
+- background graphics, player graphics improvement = ??
+- bug fixes, polish = 2 hours
+- audio = 2 hours
